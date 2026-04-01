@@ -1,9 +1,9 @@
 # Project Title
-Checkers66 clone
+Your project's title
 
 ## Student Information
-Student number: 123456
-Student Name: John Doe
+**Student number:** Your student number <br>
+**Student Name:** Your full name
 
 ## Project Overview
 
@@ -19,6 +19,8 @@ Pull this from your project proposal.
 
 ## Sitemap
 
-![Website Sitemap](img/mysitemap.png)
+![Website Sitemap](img/mysitemap.png) (The one here is only an example, include your own site map)
 
 ## References
+
+Ensure that all sources used in your assignment are cited and referenced using the Harvard referencing style.
