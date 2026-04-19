@@ -1,5 +1,5 @@
 # Project Title
-Your project's title
+Teck Solution Hub
 
 ## Student Information
 **Student number:** st10532470 <br>
