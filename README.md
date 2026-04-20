@@ -23,9 +23,9 @@ In addition, the website is intended to provide a user-friendly experience throu
 
 Website Objectives
 
- • Provide clear information about services
- • Enable users to submit enquiries
- • Improve client engagement
+•Provide clear information about services
+•Enable users to submit enquiries
+•Improve client engagement
 
 
 ## Timeline and Milestones
@@ -40,7 +40,7 @@ Day14:Testing and final improvements
 
 ## Sitemap
 
-![Website Sitemap](wede-5020-poe/img/sitemap.pdf) <br>
+![Website Sitemap](wede-5020-poe/img) <br>
 
 ## References
 
