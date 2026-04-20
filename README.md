@@ -23,14 +23,10 @@ In addition, the website is intended to provide a user-friendly experience throu
 
 Website Objectives
 
-To achieve the goals outlined above, the following objectives have been identified:
-	•	To design a Home page that captures user attention using a clear heading, brief introduction, and a strong call-to-action.
-	•	To develop an About Us page that provides detailed information about the organisation’s history, mission, vision, and team members in order to build trust with users.
-	•	To create a Services page that presents the organisation’s offerings in a clear and structured manner, allowing users to understand the value of each service.
-	•	To include an Enquiry page with a functional form that enables users to submit service-related enquiries quickly and efficiently.
-	•	To design a Contact page that provides accurate contact details, multiple business locations, and a contact form to improve accessibility and communication.
-	•	To ensure that all pages are visually consistent, easy to navigate, and responsive across different devices.
-	•	To use appropriate web technologies such as HTML and CSS to create a functional and well-structured website
+        •       Provide clear information about services
+        •       Enable users to submit enquiries
+        •       Improve client engagement
+
 
 ## Timeline and Milestones
 week 1:Planning and design
@@ -48,5 +44,6 @@ Day14:Testing and final improvements
 
 ## References
 
-Teck Solution Hub (2026) *Teck Solution Hub Website*. Available at: : https://tecksolutionhub.com/(Accessed: 19 April 2026).
+Teck Solution Hub (2026) Teck Solution Hub Website. Available at: https://tecksolutionhub.com/ (Accessed: 20 April 2026
+
 
