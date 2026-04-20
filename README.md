@@ -48,5 +48,5 @@ Day14:Testing and final improvements
 
 ## References
 
-Teck Solution Hub (2026) *Teck Solution Hub Website*. Available at: https://tecksolutionhub.com/ (Accessed: 19 April 2026).
+Teck Solution Hub (2026) *Teck Solution Hub Website*. Available at: : https://tecksolutionhub.com/(Accessed: 19 April 2026).
 
