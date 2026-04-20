@@ -40,7 +40,7 @@ Day14:Testing and final improvements
 
 ## Sitemap
 
-![Website Sitemap](wede-5020-poe/img) <br>
+![Website Sitemap]() <br>
 
 ## References
 
