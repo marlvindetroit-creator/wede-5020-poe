@@ -40,7 +40,7 @@ Day14:Testing and final improvements
 
 ## Sitemap
 
-![Website Sitemap](wede-5020-poe/img/sitemap.pdf) <br> (The one here is only an example, include your own site map)
+![Website Sitemap](wede-5020-poe/img/sitemap.pdf) <br>
 
 ## References
 
