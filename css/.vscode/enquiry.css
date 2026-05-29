@@ -1,0 +1,56 @@
+/* =========================================================
+   ENQUIRY PAGE STYLING
+========================================================= */
+
+.enquiry-section{
+    padding: 70px 10%;
+}
+
+.enquiry-section h1{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 40px;
+    color: #0b1f3a;
+}
+
+/* Form Styling */
+
+.enquiry-form{
+    background-color: white;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.enquiry-form label{
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+}
+
+.enquiry-form input,
+.enquiry-form textarea{
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 25px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.enquiry-form button{
+    background-color: #00bfff;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.4s ease;
+}
+
+.enquiry-form button:hover{
+    background-color: #008ecc;
+}

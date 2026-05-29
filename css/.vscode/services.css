@@ -1,0 +1,93 @@
+/* =========================================================
+   SERVICES PAGE STYLING
+========================================================= */
+
+.services-container{
+
+    display: grid;
+
+    grid-template-columns:
+    repeat(auto-fit, minmax(280px,1fr));
+
+    gap: 30px;
+}
+
+
+/* =========================================================
+   SERVICE CARD
+========================================================= */
+
+.service-card{
+
+    background-color: white;
+
+    border: 1px solid #ddd;
+
+    border-radius: 10px;
+
+    overflow: hidden;
+
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+
+    transition: 0.3s ease;
+}
+
+
+/* =========================================================
+   SERVICE CARD HOVER EFFECT
+========================================================= */
+
+.service-card:hover{
+
+    transform: translateY(-10px);
+
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+
+
+/* =========================================================
+   SERVICE IMAGES
+========================================================= */
+
+.service-card img{
+    width: 100%;
+}
+
+
+/* =========================================================
+   SERVICE CONTENT
+========================================================= */
+
+.service-content{
+    padding: 25px;
+}
+
+
+/* =========================================================
+   SERVICE HEADING
+========================================================= */
+
+.service-content h3{
+
+    font-size: 24px;
+
+    font-weight: bold;
+
+    letter-spacing: 1px;
+
+    margin-bottom: 15px;
+}
+
+
+/* =========================================================
+   SERVICE TEXT
+========================================================= */
+
+.service-content p{
+
+    font-size: 16px;
+
+    line-height: 1.7;
+
+    letter-spacing: 0.5px;
+}

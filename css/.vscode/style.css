@@ -1,0 +1,232 @@
+/* =========================================================
+   WEDE5020 PART 2
+   MAIN STYLESHEET
+   Organization: Teck Solution Hub
+
+   This stylesheet controls:
+   - Website layout
+   - Navigation bar
+   - Typography
+   - Shared styling
+   - Footer
+   - Responsive design
+========================================================= */
+
+
+/* =========================================================
+   UNIVERSAL WEBSITE RESET
+========================================================= */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* =========================================================
+   BODY STYLING
+========================================================= */
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.8;
+    letter-spacing: 0.5px;
+
+    background-color: #f4f7fb;
+    color: #333;
+}
+
+
+/* =========================================================
+   GLOBAL TYPOGRAPHY
+========================================================= */
+
+h1, h2, h3{
+    letter-spacing: 1px;
+    font-weight: bold;
+    color: #081b29;
+}
+
+p{
+    line-height: 1.8;
+    letter-spacing: 0.5px;
+}
+
+
+/* =========================================================
+   HEADER AND NAVIGATION BAR
+========================================================= */
+
+header{
+    background-color: #081b29;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+
+    padding: 15px 0;
+
+    border-bottom: 2px solid #00bfff;
+
+    box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+}
+
+
+/* =========================================================
+   NAVIGATION CONTAINER
+========================================================= */
+
+nav{
+    width: 90%;
+    margin: auto;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+/* =========================================================
+   WEBSITE LOGO
+========================================================= */
+
+.logo{
+    color: white;
+
+    font-size: 30px;
+    font-weight: bold;
+
+    letter-spacing: 2px;
+}
+
+
+/* =========================================================
+   NAVIGATION MENU
+========================================================= */
+
+nav ul{
+    display: flex;
+    list-style: none;
+}
+
+
+/* =========================================================
+   NAVIGATION LIST ITEMS
+========================================================= */
+
+nav ul li{
+    margin-left: 20px;
+}
+
+
+/* =========================================================
+   NAVIGATION LINKS
+========================================================= */
+
+nav ul li a{
+
+    text-decoration: none;
+
+    color: white;
+
+    font-size: 16px;
+    font-weight: bold;
+
+    letter-spacing: 1px;
+
+    padding: 8px 15px;
+
+    border-radius: 5px;
+
+    transition: 0.3s ease;
+}
+
+
+/* =========================================================
+   NAVIGATION HOVER EFFECT
+========================================================= */
+
+nav ul li a:hover{
+
+    background-color: #00bfff;
+
+    color: white;
+
+    box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+}
+
+
+/* =========================================================
+   GENERAL SECTION STYLING
+========================================================= */
+
+section{
+    padding: 80px 10%;
+}
+
+
+/* =========================================================
+   SECTION TITLES
+========================================================= */
+
+.section-title{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.section-title h2{
+
+    font-size: 40px;
+
+    font-weight: bold;
+
+    letter-spacing: 2px;
+
+    color: #081b29;
+}
+
+
+/* =========================================================
+   FOOTER STYLING
+========================================================= */
+
+footer{
+
+    background-color: #081b29;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 20px;
+
+    font-size: 15px;
+
+    letter-spacing: 1px;
+
+    border-top: 2px solid #00bfff;
+}
+
+
+/* =========================================================
+   RESPONSIVE DESIGN
+========================================================= */
+
+@media(max-width:768px){
+
+    nav{
+        flex-direction: column;
+    }
+
+    nav ul{
+        flex-direction: column;
+        margin-top: 15px;
+    }
+
+    nav ul li{
+        margin: 10px 0;
+    }
+
+}
