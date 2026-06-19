@@ -9,10 +9,10 @@ This project follows Semantic Versioning.
 - i added navigations to all my pages 
 
 ### Changed
-- xyz
+-i changed the navigation bars
 
 ### Fixed
-- my website did not have styling so i fixed it 
+- my website did not have styling so i fixed it by adding css styling.
 
 ## Semantic Versioning
 
