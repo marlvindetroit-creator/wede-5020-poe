@@ -6,13 +6,13 @@ This project follows Semantic Versioning.
 
 ## [1.0.0] 
 ### Added
-- xyz
+- i added navigations to all my pages 
 
 ### Changed
 - xyz
 
 ### Fixed
-- xyz
+- my website did not have styling so i fixed it 
 
 ## Semantic Versioning
 
